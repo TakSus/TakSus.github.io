@@ -44,9 +44,11 @@
 
 <li>上記7.でコピーした内容は以下の通りになっています。その中で「aaaaa.pdf」の部分を4.でコピーしたURLに置き換えます。その際、改行を一緒に持ってこないように気を付けてください。</li>
 <br>
+
 ```markdown
 <center><a href="aaaaa.pdf" target="\_blank"><img src="bbbbb.png"></a></center>
 ```
+
 <br><br><br>
 
 <li>上記8.で作成したすべてを入れたい枠にコピー&ペーストで貼り付けます。</li>
