@@ -11,7 +11,7 @@
 <br>
 <img src="./picture/githubpages-001.png" alt="" title="">
 <br>
-
+&nbsp;
 <li>PDFデータを直接「ここにファイルをドロップ」枠にドロップするか、「ファイルを選択」ボタンを押してPDFデータを選ぶか、どちらかの方法でPDFデータをアップロードしてください。</li>
 <br>
 <img src="./picture/githubpages-002.png" alt="" title="">
