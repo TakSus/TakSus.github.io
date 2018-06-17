@@ -46,7 +46,7 @@
 <br>
 
 <pre><code>
-<center><a href="aaaaa.pdf" target="\_blank"><img src="bbbbb.png"></a></center>
+&lt;center&gt;&lt;a href="aaaaa.pdf" target="\_blank"&gt;&lt;img src="bbbbb.png"&gt;&lt;/a&gt;&lt;/center&gt;
 </code></pre>
 
 <br><br><br>
