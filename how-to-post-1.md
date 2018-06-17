@@ -45,9 +45,9 @@
 <li>上記7.でコピーした内容は以下の通りになっています。その中で「aaaaa.pdf」の部分を4.でコピーしたURLに置き換えます。その際、改行を一緒に持ってこないように気を付けてください。</li>
 <br>
 
-<code>
+<pre><code>
 <center><a href="aaaaa.pdf" target="\_blank"><img src="bbbbb.png"></a></center>
-</code>
+</code></pre>
 
 <br><br><br>
 
