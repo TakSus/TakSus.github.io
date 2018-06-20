@@ -13,3 +13,9 @@ Google Play風ですね。
 名刺でも作成して配りましょうかね。
 
 <center><img src="./picture/githubpage-qrcode-001.png" alt="" title=""></center>
+
+でも・・・あれ・・・読み込めないぞ・・・。
+色が問題なのか？
+デザインはいじってみて、白黒にしたらどうでしょう？
+
+<center><img src="./picture/githubpage-qrcode-002.png" alt="" title=""></center>
