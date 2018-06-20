@@ -4,4 +4,4 @@
 
 ・[Create QR Code](./create-qr-code.md)
 
-・[Setting Amazon Polly](./setting-amazon-polly)
+・[Setting Amazon Polly](./setting-amazon-polly.md)
