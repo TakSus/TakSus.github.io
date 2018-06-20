@@ -19,3 +19,7 @@ Google Play風ですね。
 デザインはいじってみて、白黒にしたらどうでしょう？
 
 <center><img src="./picture/githubpage-qrcode-002.png" alt="" title=""></center>
+
+いけました。
+華美な色使いはダメみたいですね。
+もちろん、読み込むQR Code Readerの性能にもよるのでしょうが。
