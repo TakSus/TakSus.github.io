@@ -1,0 +1,23 @@
+<h1>Node-RED + Visual Recognition Face Detection App</h1>
+<h2>解析する画像を選択してください。</h2>
+<form  action="{{req._parsedUrl.pathname}}">
+    <img src="https://github.com/TakSus/TakSus.github.io/blob/master/picture/picture01.png?raw=true" height='150' onclick="setImgURL('https://github.com/TakSus/TakSus.github.io/blob/master/picture/picture01.png?raw=true');"/>
+    <img src="https://github.com/TakSus/TakSus.github.io/blob/master/picture/picture02.png?raw=true" height='150' onclick="setImgURL('https://github.com/TakSus/TakSus.github.io/blob/master/picture/picture02.png?raw=true');"/>
+    <img src="https://github.com/TakSus/TakSus.github.io/blob/master/picture/picture03.png?raw=true" height='150' onclick="setImgURL('https://github.com/TakSus/TakSus.github.io/blob/master/picture/picture03.png?raw=true');"/>
+    <img src="https://github.com/TakSus/TakSus.github.io/blob/master/picture/picture04.png?raw=true" height='150' onclick="setImgURL('https://github.com/TakSus/TakSus.github.io/blob/master/picture/picture04.png?raw=true');"/>
+    <img src="https://github.com/TakSus/TakSus.github.io/blob/master/picture/picture05.png?raw=true" height='150' onclick="setImgURL('https://github.com/TakSus/TakSus.github.io/blob/master/picture/picture05.png?raw=true');"/>
+    <br/>
+    <p>上の画像をクリックすると画像のURLがコピーされます。
+        <br/>または任意の画像URLを下の”画像URL”へ入力します。
+        <br/>最後に”解析する”ボタンを押してください。
+        <br/>
+    </p>
+    <br>画像URL: <input type="text" name="imageurl" id="imageurl"/>
+    <input type="submit" value="解析する" />
+</form>
+
+<script>
+function setImgURL(imageUrl){
+    document.getElementById('imageurl').value=imageUrl;
+}
+</script>
