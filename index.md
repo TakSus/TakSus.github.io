@@ -10,4 +10,4 @@
 
 ・[hack-20180706](./hack-20180706.md)
 
-- [shinx-pages](./sphinxwork/build/html/index.html)
+- [shinx-pages](./sphinxwork/_build/html/index.html)
