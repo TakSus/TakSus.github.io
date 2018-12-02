@@ -1,0 +1,7 @@
+Makefile
+_static/
+_templates/
+conf.py
+docs/
+index.rst
+make.bat
